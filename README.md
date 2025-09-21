@@ -26,6 +26,11 @@ This repository contains a Jupyter Notebook with Machine Learning project: an en
    - Implementing these design rules can lead to substantial cost savings in large-scale residential and commercial projects.
    - Even small efficiency improvements (1–2 kWh/m² annually) translate into thousands of euros saved each year.
 
+## Conclusion
+This project demonstrated how machine learning can predict building energy efficiency.
+- Random Forest is the best-performing model.
+- Compactness, surface area and overall height are key factors influencing energy demand for both heating and cooling.
+- Business recommendations provide clear, actionable strategies for sustainable building design.
 
 ## Contact
 Olena Pryma — pryma.olena@gmail.com
