@@ -14,5 +14,18 @@ This repository contains a Jupyter Notebook with Machine Learning project: an en
 - Heating Load (Y1): Random Forest R² = 0.998, RMSE = 0.49
 - Cooling Load (Y2): Random Forest R² = 0.968, RMSE = 1.71
 
+## Business Recommendations
+1. **Model Selection**
+   - Random Forest should be used in practice, as it predicts energy loads with high accuracy (R² > 0.95, very low RMSE).
+
+2. **Design Guidelines**
+   - Increase **Relative Compactness**: Compact building designs minimize energy consumption.
+   - Optimize **Surface Area and Overall Height**: Reducing unnecessary height and surface area lowers heating demand and reduce cooling requirements.
+
+3. **Expected Business Impact**
+   - Implementing these design rules can lead to substantial cost savings in large-scale residential and commercial projects.
+   - Even small efficiency improvements (1–2 kWh/m² annually) translate into thousands of euros saved each year.
+
+
 ## Contact
 Olena Pryma — pryma.olena@gmail.com
