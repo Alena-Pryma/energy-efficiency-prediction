@@ -1,4 +1,5 @@
 # Energy Efficiency Prediction
+## About the Project
 This repository contains a Jupyter Notebook with Machine Learning project: an end-to-end analysis and models to predict Heating Load (Y1) and Cooling Load (Y2) for buildings using the UCI Energy Efficiency dataset.
 
 ## Key files
