@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook with Machine Learning project: an en
 ## Key files
 - `notebooks/Energy_efficiency.ipynb` — main Jupyter Notebook with EDA, modeling and conclusions
 - `data/ENB2012_data.xlsx` — dataset (UCI Energy Efficiency)
-- `use_case_documentation/Screenshots_documentation.pdf` - screenshots of the completed use case template on the platform appliedAI Institute’s Use Case Platform https://ucp.appliedai-institute.de/en
+- `use_case_documentation/Screenshots_documentation.pdf` - screenshots of the completed use case template on the platform [appliedAI Institute’s Use Case Platform](https://ucp.appliedai-institute.de/en)
 - `reports/` - graphs and charts
 - `README.md` — project description
 
