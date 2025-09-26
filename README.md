@@ -33,4 +33,4 @@ This project demonstrated how machine learning can predict building energy effic
 - Business recommendations provide clear, actionable strategies for sustainable building design.
 
 ## Contact
-Olena Pryma — pryma.olena@gmail.com
+Olena Pryma — markova.prima@gmail.com
